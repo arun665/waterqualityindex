@@ -1,10 +1,10 @@
 
 import './ph.scss';
-import graph from './graph.png';
+import graph from './graph2.png';
 import Accordion from './Accordion/accordion'; 
 function Ph(){
     return(
-<div id="ph" className="container-fluid">
+<div id="cod" className="container-fluid">
 <div className="row">
 
 <div className="col-sm-6 col-md-6 col-12">
