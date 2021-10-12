@@ -13,7 +13,7 @@ function Ph(){
 
 <div className="col-sm-6 col-md-6 col-12">
 
-<img src={graph} />
+<img src={graph} loading="lazy" />
 </div>
 
 
